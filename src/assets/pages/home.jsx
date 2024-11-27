@@ -6,7 +6,7 @@ import Swipper from '../components/swipper/swipper';
 function Home() {
   return (
     <>
-      <Navbar />
+     
       <Swipper />
       <Card />
 
